@@ -1,6 +1,6 @@
 cask "facing" do
-  version "1.1"
-  sha256 "65e8e6fb66071d57831f32a932ce828b7fd03f2ce0e2117512e1cacd8890b66c"
+  version "1.2"
+  sha256 "3554a15a57623221f36b493e3bc54492dd259da48a84b4064d40d9fb166ecce4"
 
   url "https://www.impulsearc.com/facing/releases/Facing-#{version}.dmg"
   name "Facing"
